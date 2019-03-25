@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AudioLooper_Starter
+
+  Created by QinTuanye on 2019/3/25.
+  Copyright © 2019年 QinTuanye. All rights reserved.
+*/
+"Play" = "播放";
+"Stop" = "停止";
